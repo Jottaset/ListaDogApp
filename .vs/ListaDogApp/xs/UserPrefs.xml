@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2BC5F80E-DB04-4EE9-9DFE-69E56C4D87B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaDogApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaDogApp/MainPage.xaml">
+    <Files>
+      <File FileName="ListaDogApp/MainPage.xaml.cs" Line="18" Column="39" />
+      <File FileName="ListaDogApp/MainPage.xaml" Line="12" Column="33" />
+      <File FileName="ListaDogApp/MyDogList.xaml.cs" Line="18" Column="43" />
+      <File FileName="ListaDogApp/MyDogList.xaml" Line="15" Column="36" />
+      <File FileName="ListaDogApp/Model/Dog.cs" Line="12" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaDogApp" expanded="True">
+            <Node name="ListaDogApp" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="MyDogList.xaml" expanded="True" />
+            </Node>
+            <Node name="ListaDogApp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListaDogApp.iOS FirstBuild="True" />
+</Properties>

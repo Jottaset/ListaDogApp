@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ListaDogApp" 
+             x:Class="ListaDogApp.MainPage">
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="  "
+               x:Name="label_msg"
+               FontSize="20"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        
+        <Label Text="Dog List"
+               FontSize="30"
+               FontFamily="Srisakdi-Bold.ttf#Srisakdi-Bold"
+               TextColor="Navy"
+               HorizontalOptions="Center" 
+               VerticalOptions="StartAndExpand"/>
+        
+         <Entry Placeholder="Dog Name..."
+               BackgroundColor="Silver"
+               x:Name="label_name"/>
+        
+        <Entry Placeholder="Dog Breed..."
+               BackgroundColor="Silver"
+               x:Name="label_breed"/>
+        
+        <Entry Placeholder="Dog's Age..."
+               BackgroundColor="Silver"
+               x:Name="label_age"/>
+        
+        <StackLayout HorizontalOptions="Center"
+                     VerticalOptions="EndAndExpand"
+                     Orientation="Horizontal"
+                     Margin="0, 140, 0, 50">
+            
+        <Button Text="Save Dog..."
+                WidthRequest="90"
+                HeightRequest="60"
+                FontSize="15"
+                TextColor="Black"
+                BackgroundColor="Green"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Clicked="SaveDog"/>
+            
+        <Button Text="Show List"
+                WidthRequest="90"
+                HeightRequest="60"
+                FontSize="15"
+                TextColor="Black"
+                BackgroundColor="Green"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Clicked="ShowDog"/>
+        
+            
+        </StackLayout>
+        
+    </StackLayout>
+    
+</ContentPage>

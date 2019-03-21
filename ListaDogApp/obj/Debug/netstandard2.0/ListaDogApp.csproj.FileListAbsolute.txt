@@ -1,0 +1,12 @@
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/bin/Debug/netstandard2.0/ListaDogApp.deps.json
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/bin/Debug/netstandard2.0/ListaDogApp.dll
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/bin/Debug/netstandard2.0/ListaDogApp.pdb
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/MyDogList.xaml.g.cs
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/ListaDogApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/ListaDogApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/ListaDogApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/ListaDogApp.dll
+/Users/aluno/Projects/ListaDogApp/ListaDogApp/obj/Debug/netstandard2.0/ListaDogApp.pdb
